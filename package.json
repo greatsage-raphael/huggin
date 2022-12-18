@@ -1,0 +1,11 @@
+{
+  "name": "huggin",
+  "version": "1.0.0",
+  "description": "A simple way to find and pay for university housing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mwambazi Collins Lubwama",
+  "license": "ISC"
+}
